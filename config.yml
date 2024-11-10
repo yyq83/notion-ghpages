@@ -1,5 +1,5 @@
 baseURL: "https://yyq83.github.io/notion-ghpages"
-title: Blog template
+title: 一根藤上七朵花
 theme: PaperMod
 
 paginate: 5
@@ -35,7 +35,7 @@ params:
   env: production
   description: "Blog made from Notion with Hugo, hosted on GitHub Pages"
   keywords: [blog, hugo, notion, github]
-  defaultTheme: dark
+  defaultTheme: auto
   disableThemeToggle: true
   disableSpecial1stPost: true
   ShowCodeCopyButtons: true
@@ -55,7 +55,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/Malsius/blog-template"
+      url: "https://github.com/yyq83"
 
   # label:
   #   text: ""
