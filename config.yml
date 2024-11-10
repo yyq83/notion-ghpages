@@ -19,7 +19,7 @@ outputs:
 menu:
   main:
     - name: 归档
-      url: archives/
+      url: archives
       weight: 1
     - name: 标签
       url: tags/
