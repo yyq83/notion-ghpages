@@ -35,12 +35,20 @@ params:
   env: production
   description: "Blog made from Notion with Hugo, hosted on GitHub Pages"
   keywords: [blog, hugo, notion, github]
-  defaultTheme: light
-  disableThemeToggle: false
-  disableSpecial1stPost: true
-  ShowCodeCopyButtons: true
-  ShowToc: true
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
   ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  
 
   mainSections:
     - posts
