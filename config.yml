@@ -19,7 +19,7 @@ outputs:
 menu:
   main:
     - name: 归档
-      url: categories/
+      url: archives/
       weight: 1
     - name: 标签
       url: tags/
@@ -39,7 +39,7 @@ params:
   disableThemeToggle: false
   disableSpecial1stPost: true
   ShowCodeCopyButtons: true
-  ShowToc: true
+  ShowToc: false
   ShowReadingTime: true
 
   mainSections:
@@ -71,6 +71,9 @@ params:
       url: "yangyinqi85@gmail.com"
     - name: github
       url: "https://github.com/yyq83"
+  
+  assets:
+    disableHLJS: true
       
 
   # label:
