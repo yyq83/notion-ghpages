@@ -1,5 +1,5 @@
 baseURL: "https://yyq83.github.io/notion-ghpages"
-title: 一根藤上七朵花
+title: 🧑‍🚀 一根藤上七朵花
 theme: PaperMod
 
 paginate: 5
@@ -7,6 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
+ShowReadingTime: true
 
 minify:
   disableXML: true
@@ -18,17 +19,17 @@ outputs:
 
 menu:
   main:
-    - name: Categories
+    - name: 归档
       url: categories/
       weight: 1
-    - name: Tags
+    - name: 标签
       url: tags/
       weight: 2
-    - name: Search
+    - name: 搜索
       url: search/
       weight: 3
-    - name: About
-      url: about/
+    - name: 友情链接
+      url: https://yangyinqi.top/links
       weight: 4
 
 params:
@@ -53,9 +54,24 @@ params:
     # imageHeight: 120
     subtitle: "Blog made from Notion with Hugo and GitHub Pages"
 
+  homeInfoPatams:
+    Title:  👋 Welcom to Yinqi'Log
+    Content: >
+      Hi, 我是一根藤上七朵花。👋
+
+      - 我是一枚生物信息从业者。
+
+      - 爱好 阅读、代码、发呆。
+
+      - 我在这里书写✍🏻我的 学习笔记 以及 记录我的生活📷。
+
+
   socialIcons:
+    - name: email
+      url: "yangyinqi85@gmail.com"
     - name: github
       url: "https://github.com/yyq83"
+      
 
   # label:
   #   text: ""
