@@ -54,7 +54,7 @@ params:
     # imageHeight: 120
     subtitle: "Blog made from Notion with Hugo and GitHub Pages"
 
-  homeInfoPatams:
+  homeInfoParams:
     Title:  👋 Welcom to Yinqi'Log
     Content: >
       Hi, 我是一根藤上七朵花。👋
