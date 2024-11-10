@@ -37,7 +37,7 @@ params:
   description: "Blog made from Notion with Hugo, hosted on GitHub Pages"
   keywords: [blog, hugo, notion, github]
   defaultTheme: light
-  disableThemeToggle: false
+  disableThemeToggle: true
   disableSpecial1stPost: false
   ShowCodeCopyButtons: true
   ShowToc: true
