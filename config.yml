@@ -7,7 +7,6 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
-ShowReadingTime: true
 
 minify:
   disableXML: true
@@ -38,9 +37,10 @@ params:
   keywords: [blog, hugo, notion, github]
   defaultTheme: light
   disableThemeToggle: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   ShowCodeCopyButtons: true
   ShowToc: true
+  ShowReadingTime: true
 
   mainSections:
     - posts
