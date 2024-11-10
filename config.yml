@@ -39,7 +39,7 @@ params:
   disableThemeToggle: false
   disableSpecial1stPost: true
   ShowCodeCopyButtons: true
-  ShowToc: false
+  ShowToc: true
   ShowReadingTime: true
 
   mainSections:
