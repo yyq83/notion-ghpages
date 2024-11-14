@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 🧑‍🚀 一根藤上七朵花</title>
+    <link>https://yyq83.github.io/notion-ghpages/posts/</link>
+    <description>Recent content in Posts on 🧑‍🚀 一根藤上七朵花</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yyq83.github.io/notion-ghpages/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何构建和我一样的博客</title>
+      <link>https://yyq83.github.io/notion-ghpages/usage/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yyq83.github.io/notion-ghpages/usage/</guid>
+      <description>一步步构建你自己的博客with Notion and Hugo, hosted on GitHub Pages</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://yyq83.github.io/notion-ghpages/features/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yyq83.github.io/notion-ghpages/features/</guid>
+      <description>Example of post written with Notion</description>
+    </item>
+    
+  </channel>
+</rss>
