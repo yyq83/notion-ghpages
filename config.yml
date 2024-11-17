@@ -28,7 +28,7 @@ menu:
       url: search/
       weight: 3
     - name: 友情链接
-      url: https://yangyinqi.top/links
+      url: https://yyq83.github.io/notion-ghpages/links
       weight: 4
 
 params:
