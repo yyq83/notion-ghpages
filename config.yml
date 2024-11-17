@@ -28,7 +28,7 @@ menu:
       url: search/
       weight: 3
     - name: 友情链接
-      url: https://yyq83.github.io/notion-ghpages/links
+      url: https://yyq83.github.io/notion-ghpages/
       weight: 4
 
 params:
